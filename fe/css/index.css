@@ -1,0 +1,28 @@
+.bar, .mini-bar, .content {
+    width:100%;
+    color:White;
+    text-align:center;
+}
+
+.bar {
+    height:90px;
+    background-color:grey;
+    line-height:90px;
+    font-size:60px;
+}
+
+.mini-bar {
+    height:50px;
+    background-color:rgb(157, 157, 157);
+    line-height:50px;
+    font-size:20px; 
+}
+
+.content {
+    color:rgb(67, 67, 67);
+    margin: 10px 0 10px 0;
+}
+
+.main {
+    text-align:center;
+}
